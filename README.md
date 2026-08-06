@@ -8,12 +8,6 @@ Java Backend Developer • Spring Boot • PostgreSQL
 Building scalable backend applications with Java, Spring Boot, Docker, and AI.
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mirkamolm">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -66,7 +60,11 @@ AI-powered lead qualification backend built with:
 ---
 
 <p align="center">
-
-<i>Always learning. Always building. 🚀</i>
+  
+<p align="left">
+<a href="https://www.linkedin.com/in/mirkamolm/">
+<img src = "https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin.gif" width="100"></a>
+</p>
+<i>Always learning. Always building. 🚀</I> 
 
 </p>
