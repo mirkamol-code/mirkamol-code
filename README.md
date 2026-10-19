@@ -111,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirkamol-code&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkamol-code&theme=tokyonight" width="98%" alt="Activity Line Graph" />
 </div>
 
 ---
@@ -121,3 +121,4 @@
   <br/>
   <b>Always learning. Always building. 🚀</b>
 </div>
+
