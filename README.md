@@ -104,7 +104,6 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirkamol-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirkamol-code&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
